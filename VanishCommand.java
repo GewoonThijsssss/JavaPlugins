@@ -1,6 +1,3 @@
-package me.thijs.plugin.command;
-
-import me.thijs.plugin.Main;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
